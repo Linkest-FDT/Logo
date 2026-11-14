@@ -1,0 +1,41 @@
+ Linkest Foundation Logo License
+
+Work Name: Linkest Foundation Official Logo (Kunpeng Variant)
+Copyright Holder: Linkest Foundation
+Release Date: November 12, 2026
+
+====================================================================
+1. THE LICENSE
+====================================================================
+
+The Linkest Foundation Official Logo (including all related SVG code, graphics, and design elements) is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit to "Linkest Foundation" (with a link to https://linkest.org), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+====================================================================
+2. TRADEMARK & BRAND NOTICE
+====================================================================
+
+While this License grants broad copyright permissions, it DOES NOT grant any trademark or brand usage rights. "Linkest Foundation", "Linkest", and this Logo are the exclusive identifiers of the Linkest Foundation. 
+
+Without explicit written permission, you may NOT:
+- Use this Logo or its derivatives as the official branding of your product.
+- Use this Logo to imply official sponsorship, partnership, or endorsement by the Linkest Foundation.
+- Register this Logo or its variants as a trademark.
+
+====================================================================
+3. SEPARATION OF SOFTWARE LICENSES
+====================================================================
+
+This license applies ONLY to the Logo and related visual assets. 
+
+The software source code developed and maintained by the Linkest Foundation (such as the Nexus project) is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) or other independent open-source software licenses as specified in their respective repositories. This Logo License does not affect, override, or alter the software licenses.
